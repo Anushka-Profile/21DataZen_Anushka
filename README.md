@@ -6,3 +6,6 @@ Freestyle
 Day 1: Learning python basics 
 Day 2: Searched for data science course
 Day 3: Basics of python for data science
+Day 4: learning SQL basics
+Day 5: select, where clauses of SQL
+

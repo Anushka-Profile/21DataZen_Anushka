@@ -9,3 +9,4 @@ Day 3: Basics of python for data science
 Day 4: learning SQL basics
 Day 5: select, where clauses of SQL
 Day 6: SQL practice
+Day 7: Learning about ETL tools

@@ -13,4 +13,5 @@ Day 7: Learning about ETL tools
 Day 8: started snowflake essentials course
 Day 9: Completed 5 levels of snowflake course
 Day 10: Completed 8 levels of snowflake essentials course
+Day 11: Completed Snowflake Essential 10 levels
 
